@@ -1,3 +1,8 @@
+/* directives: acces to the css inside tailwinds packages */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 html,
 body {
   padding: 0;
