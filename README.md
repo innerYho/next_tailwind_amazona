@@ -1,3 +1,5 @@
+#Nextjs Tailwind E-Commerce Website like Amazon
+
 Take of Coding with Basir
 https://www.youtube.com/watch?v=_IBlyR5mRzA
 
@@ -13,3 +15,6 @@ AParse CSS and add vendor prefixes to CSS rules using values from the Can I Use 
 
 npm install postcss -D
 Tool for transforming styles with JS plugins
+
+npm i eslint -D
+npm i eslint-config-next -D
